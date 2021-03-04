@@ -1,0 +1,20 @@
+{
+  "name": "clean-webpack-typings-errors",
+  "version": "1.0.0",
+  "description": "Minimal example to exhibit TypeScript complication errors with webpack & tapable with clean-webpack-errors.",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "keywords": [
+    "webpack",
+    "clean-webpack-plugin",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "typescript": "^4.1.5",
+    "webpack": "^5.24.0"
+  }
+}
